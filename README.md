@@ -5,7 +5,7 @@ This project uses the **Bayesian spam filter** to classify emails as **spam** or
 
 ## Improvements to The System
 ### 1. Aesthetic Changes 
-- A change we made to the interface was adding bolding labels and font
+- A change  made to the interface was adding bolding labels and font
 - Added a question prompt to select files
 
 ### 2. System Changes
