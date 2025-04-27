@@ -14,12 +14,12 @@ This project uses the **Bayesian spam filter** to classify emails as **spam** or
 
 ## How To Run 
 ### Cloning Repo 
-- git clone https://github.com/OntarioTech-CS-program/w25-csci2020u-assignment01-a1-mong-wu.git
-- cd w25-csci2020u-assignment01-a1-mong-wu/src/main/java/csci2020u
+- git clone https://github.com/Jason-M13/spam-filter.git
+- cd \spam-detection\spam-filter\src\main\java\csci2020u\spamprogram
 - Open the java file, spamDetectorGUI.java
 
 ### Running The File
-- Run the file, and an interface should appear; you'll see folders located in **w25-csci2020u-assignment01-a1-mong-wu**.
+- Run the file, and an interface should appear; you'll see folders located in **spam-filter**.
 - Double-click on **src** then **main** then **resources** and stop.
 - Here, you'll see the folder data, but **don't** double-click on it. On the bottom right, a button says **open**.
 - Click on **open**, and the program will begin training the system. The system scans emails from the 'train/spam' and 'train/ham' folders.
